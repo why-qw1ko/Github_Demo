@@ -10,13 +10,13 @@
 
 教程来源于百度搜索，这里放上链接以防忘记
 
-[https://cloud.tencent.com/developer/article/2181761]: https://cloud.tencent.com/developer/article/2181761	"idea上传项目"
-[https://blog.csdn.net/dudadudadd/article/details/126763653]: https://blog.csdn.net/dudadudadd/article/details/126763653
-[https://blog.csdn.net/qq_44102678/article/details/121925200]: https://blog.csdn.net/qq_44102678/article/details/121925200
+https://cloud.tencent.com/developer/article/2181761
+https://blog.csdn.net/dudadudadd/article/details/126763653
+https://blog.csdn.net/qq_44102678/article/details/121925200
 
 然后删除github文件夹和文件的操作看这篇文章
 
-[https://blog.csdn.net/Seciss/article/details/120957382]: https://blog.csdn.net/Seciss/article/details/120957382
+https://blog.csdn.net/Seciss/article/details/120957382
 
 ## 正文：
 
