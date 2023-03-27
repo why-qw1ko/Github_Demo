@@ -1,6 +1,7 @@
 package com.buleng;
 
 import com.buleng.domain.User;
+import com.buleng.mapper.MenuMapper;
 import com.buleng.mapper.UserMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,6 +14,15 @@ import java.util.List;
 public class MapperTest {
     @Autowired
     private UserMapper usermapper;
+
+    //爆红需要在MenuMapper加上@Repository注解
+    @Autowired
+    private MenuMapper menuMapper;
+    @Test
+    public void testSelectPermsByUserId(){
+        List<String> list = menuMapper.selectPermsByUserId(1L);
+        System.out.println(list);
+    }
 
     @Test
     public void TestBCryptPasswordEncoder(){
