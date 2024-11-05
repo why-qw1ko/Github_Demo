@@ -17,8 +17,6 @@ public class HelloController {
         List list1 = new ArrayList<>();
         List list2 = new ArrayList<>();
         list2.add(1214);
-        list2.add("张嘉馨");
-        list2.add("王海洋");
         list1.add(0,123231);
         list1.add(1,list2);
         list1.add(2,"测试3");
